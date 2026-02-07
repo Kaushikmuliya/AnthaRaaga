@@ -139,3 +139,38 @@ body {
   color: var(--text-muted);
   font-size: 0.85rem;
 }
+
+/* =========================
+   Raaga List
+========================= */
+.raaga-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.raaga-item {
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.raaga-link {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.raaga-link:hover {
+  color: var(--accent-gold);
+}
+
+.raaga-name {
+  font-family: Georgia, serif;
+  font-size: 1.1rem;
+}
+
+.raaga-systems {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}

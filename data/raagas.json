@@ -3,13 +3,16 @@
   "raagas": [
     {
       "id": "yaman",
-
       "identity": {
         "primary_name": "Yaman",
-        "alternate_names": ["Kalyani"],
-        "systems": ["Hindustani", "Carnatic"]
+        "alternate_names": [
+          "Kalyani"
+        ],
+        "systems": [
+          "Hindustani",
+          "Carnatic"
+        ]
       },
-
       "classification": {
         "hindustani": {
           "thaat": "Kalyan",
@@ -20,7 +23,6 @@
           "melakarta_name": "Kalyani"
         }
       },
-
       "structure": {
         "swaras": {
           "arohanam": "S R G M# P D N S'",
@@ -28,25 +30,36 @@
         },
         "vakra": false,
         "notes_used": {
-          "shuddha": ["R", "G", "P", "D", "N"],
+          "shuddha": [
+            "R",
+            "G",
+            "P",
+            "D",
+            "N"
+          ],
           "komal": [],
-          "tivra": ["M"]
+          "tivra": [
+            "M"
+          ]
         }
       },
-
       "aesthetics": {
-        "rasa": ["Shanta", "Bhakti"],
+        "rasa": [
+          "Shanta",
+          "Bhakti"
+        ],
         "mood_description": "Calm, expansive, devotional"
       },
-
       "relationships": {
         "parent": {
           "hindustani": "Kalyan",
           "carnatic": "Kalyani"
         },
-        "related_raagas": ["hamir", "bhupali"]
+        "related_raagas": [
+          "hamir",
+          "bhupali"
+        ]
       },
-
       "references": {
         "composers": [],
         "common_compositions": [],
