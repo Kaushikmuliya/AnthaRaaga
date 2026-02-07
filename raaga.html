@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AnthaRaaga</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- =========================
+       Header
+  ========================== -->
+  <header class="site-header">
+    <div class="container header-content">
+      <h1 class="logo">AnthaRaaga</h1>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="raagas.html">Rāgas</a>
+        <a href="#">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- =========================
+       Main Content
+  ========================== -->
+  <main class="container">
+
+    <!-- Raaga Title -->
+    <section class="raaga-title">
+      <h2>
+        <span id="primary-name"></span>
+        <span class="alt-name" id="alt-name"></span>
+      </h2>
+
+      <div class="system-tags" id="system-tags"></div>
+    </section>
+
+    <!-- Classification -->
+    <section class="section">
+      <h3 class="section-title">Classification</h3>
+      <div class="section-content">
+        <p><strong>Thaat:</strong> <span id="thaat"></span></p>
+        <p><strong>Time of Performance:</strong> <span id="time"></span></p>
+        <p><strong>Melakarta:</strong> <span id="melakarta"></span></p>
+      </div>
+    </section>
+
+    <!-- Structure -->
+    <section class="section">
+      <h3 class="section-title">Structure</h3>
+      <div class="section-content">
+        <p><strong>Arohanam:</strong> <span id="arohanam"></span></p>
+        <p><strong>Avarohanam:</strong> <span id="avarohanam"></span></p>
+        <p><strong>Vakra:</strong> <span id="vakra"></span></p>
+      </div>
+    </section>
+
+    <!-- Aesthetics -->
+    <section class="section">
+      <h3 class="section-title">Aesthetics</h3>
+      <div class="section-content">
+        <p><strong>Rasa:</strong> <span id="rasa"></span></p>
+        <p class="muted" id="mood"></p>
+      </div>
+    </section>
+
+    <!-- Relationships -->
+    <section class="section">
+      <h3 class="section-title">Relationships</h3>
+      <div class="section-content">
+        <p><strong>Parent Rāga:</strong> <span id="parent"></span></p>
+        <p><strong>Related Rāgas:</strong> <span id="related"></span></p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- =========================
+       Footer
+  ========================== -->
+  <footer class="site-footer">
+    <p>© AnthaRaaga · A Digital Rāga Repository</p>
+  </footer>
+
+  <!-- =========================
+       Script
+  ========================== -->
+  <script src="js/raagaView.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,141 @@
+/* =========================
+   Color Variables
+========================= */
+:root {
+  --bg-dark: #0f0f0f;
+  --bg-soft: #1a1a1a;
+
+  --accent-gold: #f5b301;
+  --accent-teal: #3fa9a5;
+  --accent-coral: #e85d4f;
+
+  --text-primary: #eaeaea;
+  --text-secondary: #bdbdbd;
+  --text-muted: #8a8a8a;
+}
+
+/* =========================
+   Base Styles
+========================= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+/* =========================
+   Header
+========================= */
+.site-header {
+  background-color: var(--bg-soft);
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: var(--accent-gold);
+  font-family: Georgia, serif;
+  margin: 0;
+}
+
+.nav a {
+  color: var(--text-secondary);
+  margin-left: 1.5rem;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: var(--accent-gold);
+}
+
+/* =========================
+   Raaga Title
+========================= */
+.raaga-title {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.raaga-title h2 {
+  font-family: Georgia, serif;
+  font-size: 2.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.alt-name {
+  color: var(--text-muted);
+  font-size: 1.2rem;
+}
+
+.system-tags {
+  margin-top: 0.5rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  margin-right: 0.5rem;
+  font-size: 0.85rem;
+  border-radius: 4px;
+}
+
+.hindustani {
+  background-color: var(--accent-teal);
+  color: #000;
+}
+
+.carnatic {
+  background-color: var(--accent-coral);
+  color: #000;
+}
+
+/* =========================
+   Sections
+========================= */
+.section {
+  margin-bottom: 2.5rem;
+}
+
+.section-title {
+  color: var(--accent-gold);
+  font-size: 1.1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+}
+
+.section-content p {
+  margin: 0.3rem 0;
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+/* =========================
+   Footer
+========================= */
+.site-footer {
+  border-top: 1px solid #2a2a2a;
+  text-align: center;
+  padding: 1rem;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
