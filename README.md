@@ -25,3 +25,36 @@ The project is designed as a **data-first archive**, aiming to document rāgas i
 ---
 
 ## 📂 Planned Structure
+AnthaRaaga/
+├── index.html
+├── raagas.html
+├── raaga.html
+├── data/
+│ └── raagas.json
+├── css/
+│ └── style.css
+├── js/
+│ └── scripts.js
+
+
+---
+
+## 🎼 Scope (Current Phase)
+- Static rāga repository
+- Read-only data access
+- Client-side rendering
+
+---
+
+## 🚀 Future Expansion
+- Audio references
+- Advanced filtering & relationships
+- API-based backend
+- Instrument-specific or learning views
+- ML-based rāga analysis
+
+---
+
+## 📜 License
+This project is open for educational and research purposes.
+
