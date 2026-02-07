@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "raagas": [
+    {
+      "id": "yaman",
+
+      "identity": {
+        "primary_name": "Yaman",
+        "alternate_names": ["Kalyani"],
+        "systems": ["Hindustani", "Carnatic"]
+      },
+
+      "classification": {
+        "hindustani": {
+          "thaat": "Kalyan",
+          "time_of_performance": "Evening"
+        },
+        "carnatic": {
+          "melakarta_number": 65,
+          "melakarta_name": "Kalyani"
+        }
+      },
+
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G M# P D N S'",
+          "avarohanam": "S' N D P M# G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": ["R", "G", "P", "D", "N"],
+          "komal": [],
+          "tivra": ["M"]
+        }
+      },
+
+      "aesthetics": {
+        "rasa": ["Shanta", "Bhakti"],
+        "mood_description": "Calm, expansive, devotional"
+      },
+
+      "relationships": {
+        "parent": {
+          "hindustani": "Kalyan",
+          "carnatic": "Kalyani"
+        },
+        "related_raagas": ["hamir", "bhupali"]
+      },
+
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    }
+  ]
+}
