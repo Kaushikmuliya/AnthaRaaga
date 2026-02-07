@@ -26,12 +26,7 @@ body {
   font-family: "Inter", system-ui, sans-serif;
   color: var(--text-primary);
   line-height: 1.6;
-
-  background:
-    radial-gradient(circle at 20% 20%,
-      rgba(245, 179, 1, 0.08),
-      transparent 40%),
-    var(--bg-dark);
+  background: var(--bg-dark);
 }
 
 
@@ -48,6 +43,20 @@ body {
   background-color: var(--bg-soft);
   border-bottom: 1px solid #2a2a2a;
 }
+
+/* =========================
+   Landing Page Hero ONLY
+========================= */
+.home-hero {
+  min-height: calc(100vh - 70px);
+  /* header height safe */
+  background:
+    radial-gradient(circle at 20% 20%,
+      rgba(245, 179, 1, 0.08),
+      transparent 40%);
+  background-repeat: no-repeat;
+}
+
 
 .header-content {
   display: flex;
@@ -227,12 +236,10 @@ body {
   margin-top: 3rem;
   border: none;
   height: 1px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    rgba(245, 179, 1, 0.4),
-    transparent
-  );
+  background: linear-gradient(to right,
+      transparent,
+      rgba(245, 179, 1, 0.4),
+      transparent);
 }
 
 /* =========================
