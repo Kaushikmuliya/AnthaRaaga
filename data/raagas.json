@@ -65,6 +65,66 @@
         "common_compositions": [],
         "notable_artists": []
       }
+    },
+    {
+      "id": "bhupali",
+      "identity": {
+        "primary_name": "Bhupali",
+        "alternate_names": [
+          "Mohanam"
+        ],
+        "systems": [
+          "Hindustani",
+          "Carnatic"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Kalyan",
+          "time_of_performance": "Evening"
+        },
+        "carnatic": {
+          "melakarta_number": 28,
+          "melakarta_name": "Harikambhoji (Janya)"
+        }
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G P D S'",
+          "avarohanam": "S' D P G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "G",
+            "P",
+            "D"
+          ],
+          "komal": [],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shanta"
+        ],
+        "mood_description": "Peaceful, uplifting"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Kalyan",
+          "carnatic": "Harikambhoji"
+        },
+        "related_raagas": [
+          "yaman"
+        ]
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
     }
   ]
 }
