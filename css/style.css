@@ -21,6 +21,11 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  height: 100%;
+}
+
 body {
   margin: 0;
   font-family: "Inter", system-ui, sans-serif;
@@ -137,6 +142,10 @@ body {
 
 .muted {
   color: var(--text-muted);
+}
+
+main {
+  flex: 1;
 }
 
 /* =========================
