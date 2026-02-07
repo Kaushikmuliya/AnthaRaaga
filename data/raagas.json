@@ -125,6 +125,686 @@
         "common_compositions": [],
         "notable_artists": []
       }
+    },
+    {
+      "id": "kafi",
+      "identity": {
+        "primary_name": "Kafi",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Kafi",
+          "time_of_performance": "Evening"
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R g M P D n S'",
+          "avarohanam": "S' n D P M g R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "M",
+            "P",
+            "D"
+          ],
+          "komal": [
+            "g",
+            "n"
+          ],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shringara"
+        ],
+        "mood_description": "Romantic, light, expressive"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Kafi",
+          "carnatic": null
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "todi",
+      "identity": {
+        "primary_name": "Todi",
+        "alternate_names": [
+          "Shubhapantuvarali"
+        ],
+        "systems": [
+          "Hindustani",
+          "Carnatic"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Todi",
+          "time_of_performance": "Morning"
+        },
+        "carnatic": {
+          "melakarta_number": 45,
+          "melakarta_name": "Shubhapantuvarali"
+        }
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S r g M# P d N S'",
+          "avarohanam": "S' N d P M# g r S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "P",
+            "N"
+          ],
+          "komal": [
+            "r",
+            "g",
+            "d"
+          ],
+          "tivra": [
+            "M"
+          ]
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Karuna"
+        ],
+        "mood_description": "Serious, introspective, intense"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Todi",
+          "carnatic": "Shubhapantuvarali"
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "bhairav",
+      "identity": {
+        "primary_name": "Bhairav",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Bhairav",
+          "time_of_performance": "Morning"
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S r G M P d N S'",
+          "avarohanam": "S' N d P M G r S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "G",
+            "M",
+            "P",
+            "N"
+          ],
+          "komal": [
+            "r",
+            "d"
+          ],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shanta",
+          "Bhakti"
+        ],
+        "mood_description": "Grave, devotional, austere"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Bhairav",
+          "carnatic": null
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "darbari_kanada",
+      "identity": {
+        "primary_name": "Darbari Kanada",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Asavari",
+          "time_of_performance": "Late Night"
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R g M P d n S'",
+          "avarohanam": "S' n d P M g R S"
+        },
+        "vakra": true,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "M",
+            "P"
+          ],
+          "komal": [
+            "g",
+            "d",
+            "n"
+          ],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Gambhira"
+        ],
+        "mood_description": "Majestic, grave, profound"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Asavari",
+          "carnatic": null
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "shankarabharanam",
+      "identity": {
+        "primary_name": "Shankarabharanam",
+        "alternate_names": [
+          "Bilawal"
+        ],
+        "systems": [
+          "Hindustani",
+          "Carnatic"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Bilawal",
+          "time_of_performance": null
+        },
+        "carnatic": {
+          "melakarta_number": 29,
+          "melakarta_name": "Shankarabharanam"
+        }
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G M P D N S'",
+          "avarohanam": "S' N D P M G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "G",
+            "M",
+            "P",
+            "D",
+            "N"
+          ],
+          "komal": [],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Veera"
+        ],
+        "mood_description": "Majestic, auspicious, balanced"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Bilawal",
+          "carnatic": "Shankarabharanam"
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "kharaharapriya",
+      "identity": {
+        "primary_name": "Kharaharapriya",
+        "alternate_names": [
+          "Kafi"
+        ],
+        "systems": [
+          "Carnatic",
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Kafi",
+          "time_of_performance": null
+        },
+        "carnatic": {
+          "melakarta_number": 22,
+          "melakarta_name": "Kharaharapriya"
+        }
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R g M P D n S'",
+          "avarohanam": "S' n D P M g R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "M",
+            "P",
+            "D"
+          ],
+          "komal": [
+            "g",
+            "n"
+          ],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Karuna"
+        ],
+        "mood_description": "Compassionate, emotional, expressive"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Kafi",
+          "carnatic": "Kharaharapriya"
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "desh",
+      "identity": {
+        "primary_name": "Desh",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Khamaj",
+          "time_of_performance": "Night"
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R M P N S'",
+          "avarohanam": "S' n D P M G R S"
+        },
+        "vakra": true,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "M",
+            "P",
+            "N"
+          ],
+          "komal": [
+            "n"
+          ],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shringara"
+        ],
+        "mood_description": "Patriotic, romantic, joyful"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Khamaj",
+          "carnatic": null
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "kalyan",
+      "identity": {
+        "primary_name": "Kalyan",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Kalyan",
+          "time_of_performance": "Evening"
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G M# P D N S'",
+          "avarohanam": "S' N D P M# G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "G",
+            "P",
+            "D",
+            "N"
+          ],
+          "komal": [],
+          "tivra": [
+            "M"
+          ]
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shanta"
+        ],
+        "mood_description": "Serene, expansive, luminous"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Kalyan",
+          "carnatic": null
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "hamir",
+      "identity": {
+        "primary_name": "Hamir",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Kalyan",
+          "time_of_performance": "Evening"
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G M# P D N S'",
+          "avarohanam": "S' N D P M# G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "G",
+            "P",
+            "D",
+            "N"
+          ],
+          "komal": [],
+          "tivra": [
+            "M"
+          ]
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shanta",
+          "Bhakti"
+        ],
+        "mood_description": "Calm, expansive, devotional"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Kalyan",
+          "carnatic": null
+        },
+        "related_raagas": [
+          "yaman"
+        ]
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "mohanam",
+      "identity": {
+        "primary_name": "Mohanam",
+        "alternate_names": [],
+        "systems": [
+          "Carnatic"
+        ]
+      },
+      "classification": {
+        "hindustani": null,
+        "carnatic": {
+          "melakarta_number": 28,
+          "melakarta_name": "Harikambhoji (Janya)"
+        }
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G P D S'",
+          "avarohanam": "S' D P G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "G",
+            "P",
+            "D"
+          ],
+          "komal": [],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Shanta"
+        ],
+        "mood_description": "Peaceful, uplifting"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": null,
+          "carnatic": "Harikambhoji"
+        },
+        "related_raagas": [
+          "yaman"
+        ]
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "shubhapantuvarali",
+      "identity": {
+        "primary_name": "Shubhapantuvarali",
+        "alternate_names": [],
+        "systems": [
+          "Carnatic"
+        ]
+      },
+      "classification": {
+        "hindustani": null,
+        "carnatic": {
+          "melakarta_number": 45,
+          "melakarta_name": "Shubhapantuvarali"
+        }
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S r g M# P d N S'",
+          "avarohanam": "S' N d P M# g r S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "P",
+            "N"
+          ],
+          "komal": [
+            "r",
+            "g",
+            "d"
+          ],
+          "tivra": [
+            "M"
+          ]
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Karuna"
+        ],
+        "mood_description": "Serious, introspective, intense"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": null,
+          "carnatic": "Shubhapantuvarali"
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
+    },
+    {
+      "id": "bilawal",
+      "identity": {
+        "primary_name": "Bilawal",
+        "alternate_names": [],
+        "systems": [
+          "Hindustani"
+        ]
+      },
+      "classification": {
+        "hindustani": {
+          "thaat": "Bilawal",
+          "time_of_performance": null
+        },
+        "carnatic": null
+      },
+      "structure": {
+        "swaras": {
+          "arohanam": "S R G M P D N S'",
+          "avarohanam": "S' N D P M G R S"
+        },
+        "vakra": false,
+        "notes_used": {
+          "shuddha": [
+            "R",
+            "G",
+            "M",
+            "P",
+            "D",
+            "N"
+          ],
+          "komal": [],
+          "tivra": []
+        }
+      },
+      "aesthetics": {
+        "rasa": [
+          "Veera"
+        ],
+        "mood_description": "Majestic, auspicious, balanced"
+      },
+      "relationships": {
+        "parent": {
+          "hindustani": "Bilawal",
+          "carnatic": null
+        },
+        "related_raagas": []
+      },
+      "references": {
+        "composers": [],
+        "common_compositions": [],
+        "notable_artists": []
+      }
     }
   ]
 }
